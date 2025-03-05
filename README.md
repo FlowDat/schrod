@@ -1,0 +1,1 @@
+A few codes that solve 1D Time Dependent Schrodinger Equation in different ways for different example problems. The domain size, mass, potential and charge will indicate what reaction is considered and for what purpose.
